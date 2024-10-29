@@ -1,1 +1,1 @@
-# py1010
+# py1010 Dette er til kurset py1010 oppgaver
